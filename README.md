@@ -1,9 +1,10 @@
+<!---
 - 👋 Hi, I’m @pettigrt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 
 Hello, my name is Tyler Pettigrew. I am a mechanical engineering student at Oregon State University with minors in Aerospace Engineering and Computer Science. I will be graduating
 in June 2022. 
@@ -11,7 +12,7 @@ in June 2022.
 I have a strong interest in integrating sensors and control systems with mechanical components. Additionally, I enjoy computer simulations and numerical methods for simulating
 systems. 
 
-I can be reached at tyler.pettigrew1@gmail.com
+I can also be reached at tyler.pettigrew1@gmail.com
 
 
 <!---
